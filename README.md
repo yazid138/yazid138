@@ -5,7 +5,7 @@
 Previosly worked as A front developer using react and angular, building microservices with golang, and developing a chat app as an IOS Developer.
 Currently making my own game as an indie developer.
 
-![Yazid138's github stats](https://github-readme-stats.vercel.app/api?username=blinfoldking&show_icons=true&theme=radical)
+![Yazid138's github stats](https://github-readme-stats.vercel.app/api?username=yazid138&show_icons=true&theme=radical)
 
 ## Need some help? Send me a message 📫
 * [Instagram](https://www.instagram.com/haloyazid)
