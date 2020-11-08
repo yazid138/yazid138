@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-> Experienced Software Engineer, Aspiring Game Developer, Hobbyist Artist.
-
-Previosly worked as A front developer using react and angular, building microservices with golang, and developing a chat app as an IOS Developer.
-Currently making my own game as an indie developer.
-
 ![Yazid138's github stats](https://github-readme-stats.vercel.app/api?username=yazid138&show_icons=true&theme=radical)
 
 ## Need some help? Send me a message 📫
