@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![Yazid138's github stats](https://github-readme-stats.vercel.app/api?username=yazid138&show_icons=true&theme=radical)
+- 🌱 I’m currently learning java
 
 ## Need some help? Send me a message 📫
 * [Instagram](https://www.instagram.com/haloyazid)
