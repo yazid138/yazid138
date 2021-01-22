@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning java
+# I'm Ma'isy Yazid Imaaduddin
+- 🌱 I’m currently learning HTML, CSS, JS, java, python
 
 ## Need some help? Send me a message 📫
 * [Instagram](https://www.instagram.com/haloyazid)
