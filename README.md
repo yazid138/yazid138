@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Ma'isy Yazid Imaaduddin
-- 🌱 I’m currently learning HTML, CSS, JS, java, python
+- 🌱 I’m currently learning HTML, CSS, JS, java, python, php
 
 ## Need some help? Send me a message 📫
 * [Instagram](https://www.instagram.com/haloyazid)
